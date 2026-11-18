@@ -8,7 +8,7 @@ CNA transitioning into Healthcare IT. I built this lab to learn how hospitals ma
 - Created Security Group for Hosp Staff Group
 - Created user account, added user to the group and verified user appears in Active Directory Users and Computers
 
-## What I Did - Part 2: Group Policy + Shared Drive
+## What I Did - Part 2: Group Policy and Shared Drive
 - Created shared drive: HospitalShare with group permissions for Hospital Staff
 - Applied Group Policy: Password Policy (12 char min, 90-day max age, 24 passwords remembered, lockout after 5 attempts)
 - Tested login as J.Doe and verified access to HospitalShare
